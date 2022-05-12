@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Digital Marketing",
+    "institute": "Digital Nest",
+    "rating": 4.8,
+    "totalRate": "1.2k",
+    "level": "Beginner to Advanced",
+    "price": 10999,
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/ba/e14875b76f4e799e067d3551076e8c/1200x600_DA.png?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+    "description": "Prepare for a new career in the high-growth field of data analytics, no experience or degree required. Get professional training designed by Google and have the opportunity to connect with top employers. There are 337,400 U.S. job openings in data analytics with a $67,900 average entry-level salary. This program includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to analysis tools and platforms and key analytical skills required for an entry-level job."
+  },
+  {
+    "id": 2,
+    "title": "Social MEDIA Marketing",
+    "institute": "Deep Dive",
+    "rating": 4.8,
+    "totalRate": "818",
+    "level": "professional",
+    "price":5599,
+    "imgUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fsinss.in%2Fblog%2Fwp-content%2Fuploads%2F2021%2F08%2Fsocial-media.jpg&imgrefurl=https%3A%2F%2Fsinss.in%2Fblog%2Fsocial-media-marketing-smm%2F&tbnid=cP3evhnW9zdBoM&vet=12ahUKEwjN_uD_jtn3AhWq_jgGHVuGB9sQMygHegUIARDiAQ..i&docid=MOO05MA1FRBQIM&w=782&h=538&q=social%20media%20marketing&ved=2ahUKEwjN_uD_jtn3AhWq_jgGHVuGB9sQMygHegUIARDiAQ",
+    "description": "Prepare for a new career in the high-growth field of data analytics, no experience or degree required. Get professional training designed by Google and have the opportunity to connect with top employers. There are 337,400 U.S. job openings in data analytics with a $67,900 average entry-level salary. This program includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to analysis tools and platforms and key analytical skills required for an entry-level job."
+  },
+  {
+    "id": 3,
+    "title": "Dropshipping",
+    "institute": "princeton",
+    "rating": 4.6,
+    "totalRate": "600",
+    "level": "Beginner to Advanced",
+    "price": 4999,
+    "imgUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fmarketbusinessnews.com%2Fwp-content%2Fuploads%2F2020%2F01%2FDropshipping-image-for-article-4332344.jpg%3Fresize%3D938%252C612%26ssl%3D1&imgrefurl=https%3A%2F%2Fmarketbusinessnews.com%2Ffinancial-glossary%2Fdropshipping-definition%2F&tbnid=HMNPb5km4iopoM&vet=12ahUKEwjhnLu2j9n3AhXqgGMGHeviCvUQMygdegUIARCTAg..i&docid=q5P3ZILHylEVYM&w=938&h=612&q=drop%20shipping&ved=2ahUKEwjhnLu2j9n3AhXqgGMGHeviCvUQMygdegUIARCTAg",
+    "description": "Prepare for a new career in the high-growth field of data analytics, no experience or degree required. Get professional training designed by Google and have the opportunity to connect with top employers. There are 337,400 U.S. job openings in data analytics with a $67,900 average entry-level salary. This program includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to analysis tools and platforms and key analytical skills required for an entry-level job."
+  },
+  {
+    "id": 4,
+    "title": "Amazon FBA",
+    "institute": "Sellers Central",
+    "rating": 4.8,
+    "totalRate": "2.3k",
+    "level": "Beginner to Advanced",
+    "price": 14999,
+    "imgUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmultichannelmerchant.com%2Fwp-content%2Fuploads%2F2020%2F09%2Famazon-fba-logo-feature.jpg&imgrefurl=https%3A%2F%2Fmultichannelmerchant.com%2Fecommerce%2Famazon-fba-sellers-facing-suspension-late-carrier-deliveries%2F&tbnid=oiRqPKRqTNghqM&vet=12ahUKEwjRxrbVkNn3AhXRjuYKHTKcAKcQMygBegUIARDVAQ..i&docid=YlWQzNo0TBZluM&w=850&h=450&q=amazon%20fba&ved=2ahUKEwjRxrbVkNn3AhXRjuYKHTKcAKcQMygBegUIARDVAQ",
+    "description": "Prepare for a new career in the high-growth field of data analytics, no experience or degree required. Get professional training designed by Google and have the opportunity to connect with top employers. There are 337,400 U.S. job openings in data analytics with a $67,900 average entry-level salary. This program includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to analysis tools and platforms and key analytical skills required for an entry-level job."
+  },
+  {
+    "id": 5,
+    "title": "Machine Learning",
+    "institute": "DeepLearning.AI",
+    "rating": 4.8,
+    "totalRate": "1.1k",
+    "level": "Intermediate",
+    "price": 5000,
+    "imgUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.educba.com%2Facademy%2Fwp-content%2Fuploads%2F2020%2F01%2FDeep-Learning.jpg&imgrefurl=https%3A%2F%2Fwww.educba.com%2Fdeep-learning%2F&tbnid=jhCPhrBmRYH1cM&vet=12ahUKEwig4oSs8tf3AhWn_TgGHe2AD0sQMygJegUIARDnAQ..i&docid=j4_toSgwTSgGNM&w=798&h=471&q=deep%20learning&ved=2ahUKEwig4oSs8tf3AhWn_TgGHe2AD0sQMygJegUIARDnAQ",
+    "description": "Prepare for a new career in the high-growth field of data analytics, no experience or degree required. Get professional training designed by Google and have the opportunity to connect with top employers. There are 337,400 U.S. job openings in data analytics with a $67,900 average entry-level salary. This program includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to analysis tools and platforms and key analytical skills required for an entry-level job."
+  },
+  {
+    "id": 6,
+    "title": "TRADING",
+    "institute": "Stock MARKET Academy",
+    "rating": 4.7,
+    "totalRate": "4.5k",
+    "level": "Advanced",
+    "price":12999,
+    "imgUrl":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fw3assets.angelone.in%2Fwp-content%2Fuploads%2F2020%2F10%2FOPTIONS-TRADING-HOW-TO-TRADE-OPTIONS.jpg&imgrefurl=https%3A%2F%2Fwww.angelone.in%2Fknowledge-center%2Ffutures-and-options%2Foption-trading&tbnid=iideYEoR9FdrAM&vet=12ahUKEwj79-mQkdn3AhVYktgFHc7GCeoQMyg3egQIARBm..i&docid=XLRzjkRAH_J1iM&w=1600&h=805&q=TRADING&ved=2ahUKEwj79-mQkdn3AhVYktgFHc7GCeoQMyg3egQIARBm",
+    "description": "Prepare for a new career in the high-growth field of data analytics, no experience or degree required. Get professional training designed by Google and have the opportunity to connect with top employers. There are 337,400 U.S. job openings in data analytics with a $67,900 average entry-level salary. This program includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to analysis tools and platforms and key analytical skills required for an entry-level job."
+  },
+  {
+    "id": 7,
+    "title": "Data Science Foundations: Data Structures and Algorithms",
+    "institute": "University of Colorado Boulder",
+    "rating": 4.7,
+    "totalRate": "663",
+    "level": "Advanced",
+    "price": 4300,
+    "imgUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*sMryEXZVPKFjGNcfSzE8Mw.jpeg&imgrefurl=https%3A%2F%2Fmedium.com%2Fswlh%2Fshould-you-learn-datastructure-algorithms-9bb5feaa7a8e&tbnid=9W9Mx2vsxTEWdM&vet=12ahUKEwjM1Pr78tf3AhVGi9gFHUnABwEQMygDegUIARDiAQ..i&docid=nZB8pmR923dfPM&w=1280&h=720&q=data%20structures%20and%20algorithms&ved=2ahUKEwjM1Pr78tf3AhVGi9gFHUnABwEQMygDegUIARDiAQ",
+    "description": "Prepare for a new career in the high-growth field of data analytics, no experience or degree required. Get professional training designed by Google and have the opportunity to connect with top employers. There are 337,400 U.S. job openings in data analytics with a $67,900 average entry-level salary. This program includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to analysis tools and platforms and key analytical skills required for an entry-level job."
+  },
+  {
+    "id": 8,
+    "title": "Mobile App DEVELOPMENT",
+    "institute": "Duke University",
+    "rating": 4.9,
+    "totalRate": "2.3k",
+    "level": "Advance",
+    "price": 12999,
+    "imgUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.fita.in%2Fwp-content%2Fthemes%2Fzeft%2Flanding%2Fcourses%2Fmobile-app-training.jpg&imgrefurl=https%3A%2F%2Fwww.fita.in%2Fmobile-app-development-course%2F&tbnid=XG7EsuXMDkFyUM&vet=10CMEBEDMovwFqFwoTCNDmptSR2fcCFQAAAAAdAAAAABAC..i&docid=sYXbQmt-BS0FlM&w=388&h=253&q=mobile%20app%20development&ved=0CMEBEDMovwFqFwoTCNDmptSR2fcCFQAAAAAdAAAAABAC",
+    "description": "Prepare for a new career in the high-growth field of data analytics, no experience or degree required. Get professional training designed by Google and have the opportunity to connect with top employers. There are 337,400 U.S. job openings in data analytics with a $67,900 average entry-level salary. This program includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to analysis tools and platforms and key analytical skills required for an entry-level job."
+  },
+  {
+    "id": 9,
+    "title": "Animation and Vfx",
+    "institute": "Shaftanimation",
+    "rating": 4.6,
+    "totalRate": "3.4k",
+    "level": "Advanced",
+    "price": 9999,
+    "imgUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2F3d-animation-and-vfx-course-21461035833.html&psig=AOvVaw17m03cQ30KJ2uTsL1CGi4q&ust=1652417012378000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNCymemS2fcCFQAAAAAdAAAAABAd",
+    "description": "Prepare for a new career in the high-growth field of data analytics, no experience or degree required. Get professional training designed by Google and have the opportunity to connect with top employers. There are 337,400 U.S. job openings in data analytics with a $67,900 average entry-level salary. This program includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to analysis tools and platforms and key analytical skills required for an entry-level job."
+  },
+  {
+    "id": 10,
+    "title": "Preparing for Google Cloud Certification: Cloud Architect",
+    "institute": "Google Cloud",
+    "rating": 4.7,
+    "totalRate": "858",
+    "level": "Intermediate",
+    "price":7999,
+    "imgUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets-global.website-files.com%2F5b6df8bb681f89c158b48f6b%2F5d4820e4c65fe9855570e4ca_cloud-architect.jpg&imgrefurl=https%3A%2F%2Fwww.fieldengineer.com%2Fskills%2Fcloud-architect&tbnid=SB6xv-DGtUGtJM&vet=12ahUKEwjt4oe19Nf3AhXbkdgFHfq5Dr0QMygBegUIARDZAQ..i&docid=JtGYg2LwAkPf4M&w=872&h=321&q=pcloud%20arctitech&ved=2ahUKEwjt4oe19Nf3AhXbkdgFHfq5Dr0QMygBegUIARDZAQ",
+    "description": "Prepare for a new career in the high-growth field of data analytics, no experience or degree required. Get professional training designed by Google and have the opportunity to connect with top employers. There are 337,400 U.S. job openings in data analytics with a $67,900 average entry-level salary. This program includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to analysis tools and platforms and key analytical skills required for an entry-level job."
+  }
+]

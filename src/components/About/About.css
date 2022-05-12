@@ -1,0 +1,9 @@
+#banner-about{
+    background-image: url('http://www.readytodesign.com/images/top-bnr-8.jpg');
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
